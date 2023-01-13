@@ -7,7 +7,7 @@
 
   :mortar_board: I'm a final year student in Computer Science. </br>
   🌱 Coding, learning and enjoying life. </br>
-  🔭 Currently working on my final year project : "Building a knowledge-based recommender system for E-recruitment". </br>
+  🔭 Currently working on my graduation project : "Building a knowledge-based recommender system for E-recruitment". </br>
   
 </p>
 
