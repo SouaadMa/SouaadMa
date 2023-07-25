@@ -5,10 +5,10 @@
   :star: My full name is: Benelhadj Djelloul Mama Saadia. </br>
   :smile: You can just call me Souaad. </br>
 
-  :mortar_board: I'm a final year student in Computer Science. </br>
-  🌱 Coding, learning and enjoying life. </br>
-  🧠 Web Development, Artificial intelligence and IOT ❇️ ✨ </br>
-  🔭 Currently working on my graduation project : "Building a knowledge-based recommender system for E-recruitment". </br>
+  :mortar_board: I'm a graduate of Computer Science: Computer Systems and Software. </br>
+  🌱 Coding, learning, and enjoying life. </br>
+  🧠 Web Development, Artificial Intelligence, and IOT ❇️ ✨ </br>
+  🔭 My graduation project: "Building a knowledge-based recommender system for E-recruitment". </br>
   
 </p>
 
